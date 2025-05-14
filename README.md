@@ -35,11 +35,4 @@ This repository includes:
 
 ---
 
-## 📌 How to Run the Quiz App Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mathsphile/JAVA-FROM-BEGINNING.git
-
----
 
